@@ -1,13 +1,13 @@
 spack:
   specs:
-  - python@3.13.5/2myq44he5nkui3zyqnb2lgkfgessxwfs
-  - python@3.11.11/3zyswht5fo66zfjogpozzni6i3rxsgr3
+  - python@3.6.15/iqsxjci45qyzp5pdmke4mtc2agcgwhry
+  - python@3.7.17/sbxkbstetpydocqu2kdobwmbe2zaxd6d
   - python@3.8.20/5czpebjpjivtdctlow4u7wdwuwt555d4
   - python@3.9.21/b5gcvor3de2vrli6wclhdjqpb2f34qep
-  - python@3.6.15/iqsxjci45qyzp5pdmke4mtc2agcgwhry
-  - python@3.12.9/quqhd5enybgh7z6gqf33nvz3r4la66tv
-  - python@3.7.17/sbxkbstetpydocqu2kdobwmbe2zaxd6d
   - python@3.10.16/vl4qdf7qxfeb7ibk4espxz65bltotrup
+  - python@3.11.11/3zyswht5fo66zfjogpozzni6i3rxsgr3
+  - python@3.12.9/quqhd5enybgh7z6gqf33nvz3r4la66tv
+  - python@3.13.5/2myq44he5nkui3zyqnb2lgkfgessxwfs
   concretizer:
     unify: false
   view: false
